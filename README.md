@@ -40,7 +40,6 @@ Dataset URL: https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
 <b>4️⃣ Model Optimization</b>
 * Used GridSearchCV to optimize hyperparameters
 
-
 ## 🚀 Streamlit Web App Features
 * User Input Section: Enter clinical parameters for prediction
 * Gauge Chart: Displays prediction confidence
@@ -51,7 +50,8 @@ Dataset URL: https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
 ## Best Performing Machine Learning Model
 Random Forest Classifier was found to be the best performing Classifier with Accuracy: <b>0.6842</b>
 
-
+# Here is a Live Demonstartion of the Parkinson Detection Webapp
+https://github.com/user-attachments/assets/288ca750-e1f1-486c-97b2-d042142ac996
 
 
 
